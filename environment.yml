@@ -1,0 +1,21 @@
+name: applied_machine_learning
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - ipython
+  - ipykernel
+  - scikit-learn
+  - pytorch
+  - torchaudio
+  - torchvision
+  - opencv
